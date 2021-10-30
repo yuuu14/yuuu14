@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yuuu14
-- 👀 I’m interested in Algorithms, Reinforcement Learning, Prokofiev
-- 🌱 I’m currently learning Graph Neural Networks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Algorithms, Machine Learning, Prokofiev
+- 🌱 I’m currently learning Hybrid Learning and Reasoning
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 How to reach me: yu.xiao.14@outlook.com
 
 <!---
 yuuu14/yuuu14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
