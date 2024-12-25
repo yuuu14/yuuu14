@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yuuu14
-- 👀 I’m interested in Algorithms, Machine Learning, Prokofiev
-- 🌱 I’m currently learning Hybrid Learning and Reasoning
+- 👀 I’m interested in ML/DL, Prokofiev
+- 🌱 I’m currently learning LLM and Model Attacking
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me: yu.xiao.14@outlook.com
+- 📫 How to reach me: yu.xiao.es@tuta.io
 
 <!---
 yuuu14/yuuu14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
